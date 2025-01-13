@@ -1,0 +1,83 @@
+{
+  "pages": [
+    {
+      "path": "pages/calculator/calculator",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/tetris/tetris",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/snake/snake",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/scientific/scientific",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/clock/clock",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/calender/calender",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/weather/weather",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/weather/index",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path" : "pages/weather/month",
+      "style" : {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path" : "pages/weather/city",
+      "style" :
+      {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path" : "pages/weather/aqi",
+      "style" : {
+        "navigationStyle": "custom"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  }
+}
